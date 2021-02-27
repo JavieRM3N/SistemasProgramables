@@ -29,3 +29,4 @@
 ###  Contenido
 
 1.  [C1.1 Cuestionario electrónica básica y sus elementos](doc/C1.1_ElectronicaBasica_y_elementos_ChristianJavierMendozaRamos.md).
+2.  [C1.2 Circuito electrónico básico](doc/C1.2_ElectronicaBasica_circuitos_Christian_Javier.md).
