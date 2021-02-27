@@ -23,7 +23,7 @@
 * Nombre: Christian Javier Mendoza Ramos.
 * Licenciatura: Ingenieria en Sistemas Computacionales.
 * Especialidad: Analisis, diseño y desarrollo de software.
-
+* Equipo Dytech
 ---
 
 ###  Contenido
