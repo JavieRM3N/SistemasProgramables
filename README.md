@@ -21,9 +21,10 @@
 ###  Datos del asesor de la materia
 
 * Nombre: Christian Javier Mendoza Ramos.
+* Num Control 18212223
 * Licenciatura: Ingenieria en Sistemas Computacionales.
 * Especialidad: Analisis, diseño y desarrollo de software.
-* Equipo Dytech
+* Equipo DytechWolf
 ---
 
 ###  Contenido
