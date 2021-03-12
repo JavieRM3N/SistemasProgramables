@@ -32,4 +32,4 @@
 1.  [C1.1 Cuestionario electrónica básica y sus elementos](doc/C1.1_ElectronicaBasica_y_elementos_ChristianJavierMendozaRamos.md).
 2.  [C1.2 Circuito electrónico básico](doc/C1.2_ElectronicaBasica_circuitos_Christian_Javier.md).
 3.  [C1.3 Circuito electrónico divisor de tensión](doc/C1.3_Circuito_electrónico_divisor_de_tensión_Christian_Mendoza.md)
-4.  A1.2 Sensor Fotoresistivo *Pendiente*()
+4.  [A1.2 Sensor Fotoresistivo](doc/A1.2_ChristianMendoza_DytechWolf.md)
