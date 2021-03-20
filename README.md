@@ -33,3 +33,4 @@
 2.  [C1.2 Circuito electrónico básico](doc/C1.2_ElectronicaBasica_circuitos_Christian_Javier.md).
 3.  [C1.3 Circuito electrónico divisor de tensión](doc/C1.3_Circuito_electrónico_divisor_de_tensión_Christian_Mendoza.md)
 4.  [A1.2 Sensor Fotoresistivo](doc/A1.2_ChristianMendoza_DytechWolf.md)
+5.  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](doc/C1.4_Acondicionador_de_senal_AmOP_ChristianMendoza.md)
