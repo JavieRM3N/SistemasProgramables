@@ -34,3 +34,4 @@
 3.  [C1.3 Circuito electrónico divisor de tensión](doc/C1.3_Circuito_electrónico_divisor_de_tensión_Christian_Mendoza.md)
 4.  [A1.2 Sensor Fotoresistivo](doc/A1.2_ChristianMendoza_DytechWolf.md)
 5.  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](doc/C1.4_Acondicionador_de_senal_AmOP_ChristianMendoza.md)
+6.  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](doc/C1.5_Tipos_de_sensores_ChristianMendoza.md)
