@@ -37,4 +37,5 @@
 6.  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](doc/C1.5_Tipos_de_sensores_ChristianMendoza.md)
 7.  [A1.3 Tipos de Sensores Comerciales](doc/A1.3_ChristianMendoza_DytechWolf.md)
 8.  [A1.4 Sensor Temperatura TMP36](doc/A1.4_ChristianMendoza_DytechWolf.md)
-9.  [C2.1  Cuestionario Actuadores y su clasificación](doc/C2.1_ActuadoresNeumaticosHidraulicos_ChristianMendoza.md)
+9.  [C2.1 Cuestionario Actuadores y su clasificación](doc/C2.1_ActuadoresNeumaticosHidraulicos_ChristianMendoza.md)
+10. [C2.2 Actuadores Electricos](SistemasProgramables/doc/C2.2_ActuadoersElectricos_ChristianMendoza.md)
