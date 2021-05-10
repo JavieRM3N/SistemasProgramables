@@ -38,4 +38,6 @@
 7.  [A1.3 Tipos de Sensores Comerciales](doc/A1.3_ChristianMendoza_DytechWolf.md)
 8.  [A1.4 Sensor Temperatura TMP36](doc/A1.4_ChristianMendoza_DytechWolf.md)
 9.  [C2.1 Cuestionario Actuadores y su clasificación](doc/C2.1_ActuadoresNeumaticosHidraulicos_ChristianMendoza.md)
-10. [C2.2 Actuadores Electricos](SistemasProgramables/doc/C2.2_ActuadoersElectricos_ChristianMendoza.md)
+10. [C2.2 Cuestionario Actuadores Electricos](doc/C2.2_ActuadoersElectricos_ChristianMendoza.md)
+11. [A2.1 Tipos actuadores Comerciales](doc/A2.1_ChristianMendoza_DytechWolf.md)
+12. [C2.3 Circuito temporizador 555](doc/C2.3_CircuitoTemporizador555.md)
