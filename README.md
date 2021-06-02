@@ -41,4 +41,5 @@
 10. [C2.2 Cuestionario Actuadores Electricos](doc/C2.2_ActuadoersElectricos_ChristianMendoza.md)
 11. [A2.1 Tipos actuadores Comerciales](doc/A2.1_ChristianMendoza_DytechWolf.md)
 12. [C2.3 Circuito temporizador 555](doc/C2.3_CircuitoTemporizador555.md)
-13. [A3.2 ESP32 SensorTouch](doc/A3.2_ChristianMendoza_DytechWolf.md)
+13. [A3.1 Arduino SenorUltrasonico](doc/A3.1_ChristianMendoza_DytechWolf.md)
+14. [A3.2 ESP32 SensorTouch](doc/A3.2_ChristianMendoza_DytechWolf.md)
