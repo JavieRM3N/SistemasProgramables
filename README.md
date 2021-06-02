@@ -45,6 +45,6 @@
 14. [C3.1 ArduinoIDE SalidaDigital](doc/C3.1_ArduinoIDE_SalidaDigital_ChristianMendoza.md)
 15. [C3.2 ArduinoIDE EntradaDigitalImpresionSerial](doc/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_ChristianMendoza.md)
 16. [C3.3 ArduinoIDE EntradaAnalogaFuncionSerial](doc/C3.3_ArduinoIDE_ChristianMendoza.md)
-17. [C3.4 ArduinoIDE Sensor Funcion Serial](doc/C3.3_ArduinoIDE_ChristianMendoza.md)
+17. [C3.4 ArduinoIDE Sensor Funcion Serial](doc/C3.4_ArduinoIDE_ChristianMendoza.md)
 18. [A3.1 Arduino SenorUltrasonico](doc/A3.1_ChristianMendoza_DytechWolf.md)
 19. [A3.2 ESP32 SensorTouch](doc/A3.2_ChristianMendoza_DytechWolf.md)
