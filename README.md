@@ -51,4 +51,4 @@
 20. [A3.3 ESP32 SensorTemperatura DHT11](doc/A3.3_ChristianMendoza_DytechWolf.md)
 21. [A4.1 ESP32 L293D ControlMotorDC Bluetooth](doc/A4.1_ChristianMendoza_DytechWolf.md)
 22. [A4.2 ESP32 SensorLDR WebServer Wifi](doc/A4.2_ChristianMendoza_DytechWolf.md)
-23. [A5.1 InterfaceNodeRed SensorRGB](doc/A4.2_ChristianMendoza_DytechWolf.md)
+23. [A5.1 InterfaceNodeRed SensorRGB](doc/A5.1_ChristianMendoza_DytechWolf.md)
