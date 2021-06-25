@@ -48,3 +48,7 @@
 17. [C3.4 ArduinoIDE Sensor Funcion Serial](doc/C3.4_ArduinoIDE_ChristianMendoza.md)
 18. [A3.1 Arduino SenorUltrasonico](doc/A3.1_ChristianMendoza_DytechWolf.md)
 19. [A3.2 ESP32 SensorTouch](doc/A3.2_ChristianMendoza_DytechWolf.md)
+20. [A3.3 ESP32 SensorTemperatura DHT11](doc/A3.3_ChristianMendoza_DytechWolf.md)
+21. [A4.1 ESP32 L293D ControlMotorDC Bluetooth](doc/A4.1_ChristianMendoza_DytechWolf.md)
+22. [A4.2 ESP32 SensorLDR WebServer Wifi](doc/A4.2_ChristianMendoza_DytechWolf.md)
+23. [A5.1 InterfaceNodeRed SensorRGB](doc/A4.2_ChristianMendoza_DytechWolf.md)
